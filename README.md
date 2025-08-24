@@ -13,23 +13,31 @@
 - 🧩 Supports multiple roles: Legal, HR, Tech, General  
 - 💻 Desktop (PyQt) or Web (Blazor/.NET) frontend options  
 
----
+---## 📁 Folder Structure
 
-## 📁 Folder Structure
-
-```
+```text
 LexiAI/
-├── main.py
-├── chat_engine/
-│   └── model_wrapper.py
-├── ui/
-│   └── main_window.py
 ├── assets/
 │   └── logo.png
-├── .venv/                # Ignored by Git
+├── core/
+│   ├── ai_engine.py
+│   ├── doc_loader.py
+│   ├── settings_manager.py
+│   ├── smart_chunking.py
+│   └── vector_store.py
+├── ui/
+│   ├── main_window.py
+│   ├── settings_panel.py
+│   └── settings_window.py
+├── .gitignore
+├── LICENSE.txt
+├── README.md
+├── install.ps1
+├── lexiai_settings.json
+├── main.py
+├── main.spec
 ├── requirements.txt
-└── README.md
-```
+└── settings.json
 
 ---
 
