@@ -1,0 +1,35 @@
+END USER LICENSE AGREEMENT (EULA)
+
+IMPORTANT – READ CAREFULLY
+
+This End User License Agreement ("Agreement") is a legal agreement between you ("User") and the developer ("Developer") of the software application "LexiAI" ("Software"). By installing, copying, or otherwise using this Software, you agree to be bound by the terms of this Agreement.
+
+1. GRANT OF LICENSE
+This Software is licensed, not sold. You are granted a non-transferable, non-exclusive, limited license to install and use the Software solely for your personal or internal business purposes.
+
+2. INTELLECTUAL PROPERTY
+The Software, including all its features, interface designs, underlying logic, functionality, and branding (collectively, "Intellectual Property"), is protected by copyright, trade secret, and other applicable laws. You agree not to copy, modify, reverse engineer, decompile, or attempt to extract the source code or replicate the Software in any way.
+
+All intellectual property rights remain with the Developer. Any unauthorized use or attempt to recreate or commercially exploit the Software or its concept is strictly prohibited.
+
+3. RESTRICTIONS
+You may not:
+- Redistribute, sublicense, rent, or lease the Software.
+- Use the Software for commercial purposes without explicit written permission.
+- Bypass or attempt to disable any licensing or security mechanisms.
+
+4. WARRANTY DISCLAIMER
+This Software is provided "AS IS" without warranty of any kind. The Developer disclaims all warranties, whether express, implied, or statutory, including but not limited to merchantability or fitness for a particular purpose.
+
+5. LIMITATION OF LIABILITY
+Under no circumstances shall the Developer be liable for any damages arising from the use or inability to use this Software, including but not limited to data loss, system failure, or financial loss.
+
+6. TERMINATION
+This Agreement is effective until terminated. You may terminate it at any time by uninstalling the Software. This license will also terminate immediately if you breach any of its terms.
+
+7. GOVERNING LAW
+This Agreement shall be governed by and construed in accordance with the laws of your local jurisdiction, without regard to its conflict of law provisions.
+
+By installing or using LexiAI, you acknowledge that you have read this Agreement, understand it, and agree to be bound by its terms.
+
+© 2025 LexiAI. All rights reserved.

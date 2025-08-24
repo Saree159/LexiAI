@@ -1,0 +1,6 @@
+{
+    "chunk_size": 100,
+    "overlap": 50,
+    "dark_mode": true,
+    "model_name": "llama2"
+}

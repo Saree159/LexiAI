@@ -1,0 +1,7 @@
+{
+    "chunk_size": 500,
+    "overlap": 50,
+    "dark_mode": true,
+    "model_name": "llama3",
+    "role": "Legal Advisor"
+}
